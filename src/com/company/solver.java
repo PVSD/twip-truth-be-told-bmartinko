@@ -5,9 +5,7 @@ import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
 import java.util.Objects;
 
-/**
- * Created by tw073 on 12/11/18.
- */
+
 public class solver {
 
     private String str;

@@ -27,7 +27,7 @@ public class Main {
 
         try {
             //Whatever the file path is.
-            File statText = new File("output.txt");
+            File statText = new File("table.txt");
             FileOutputStream is = new FileOutputStream(statText);
             OutputStreamWriter osw = new OutputStreamWriter(is);
             Writer w = new BufferedWriter(osw);
